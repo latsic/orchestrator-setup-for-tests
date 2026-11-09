@@ -1,7 +1,7 @@
 ---
 id: CALC-4
 title: Docs index
-status: In review
+status: In PR
 type: task
 parent_task_id: CALC-1
 ordinal: 1004
@@ -32,3 +32,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria 03a83f
+- Pull request: #3

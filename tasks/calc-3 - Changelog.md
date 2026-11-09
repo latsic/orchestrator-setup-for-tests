@@ -1,7 +1,7 @@
 ---
 id: CALC-3
 title: Changelog
-status: In review
+status: In PR
 type: task
 parent_task_id: CALC-1
 ordinal: 1003
@@ -32,3 +32,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria bbc73a
+- Pull request: #2
