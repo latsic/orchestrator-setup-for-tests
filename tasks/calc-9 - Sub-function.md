@@ -1,7 +1,7 @@
 ---
 id: CALC-9
 title: Sub function
-status: In review
+status: Done
 type: task
 parent_task_id: CALC-1
 ordinal: 1009
