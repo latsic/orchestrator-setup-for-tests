@@ -1,7 +1,7 @@
 ---
 id: CALC-12
 title: Docs protected c
-status: In PR
+status: Done
 type: task
 parent_task_id: CALC-1
 ordinal: 1012

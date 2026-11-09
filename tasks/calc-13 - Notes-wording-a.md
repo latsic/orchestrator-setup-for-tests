@@ -1,7 +1,7 @@
 ---
 id: CALC-13
 title: Notes wording a
-status: In PR
+status: Done
 type: task
 parent_task_id: CALC-1
 ordinal: 1013
