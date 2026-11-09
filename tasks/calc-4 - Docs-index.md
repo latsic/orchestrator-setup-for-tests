@@ -1,7 +1,7 @@
 ---
 id: CALC-4
 title: Docs index
-status: In PR
+status: Done
 type: task
 parent_task_id: CALC-1
 ordinal: 1004
