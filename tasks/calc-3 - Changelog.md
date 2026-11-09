@@ -1,7 +1,7 @@
 ---
 id: CALC-3
 title: Changelog
-status: Ready
+status: In review
 type: task
 parent_task_id: CALC-1
 ordinal: 1003
