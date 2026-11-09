@@ -1,7 +1,7 @@
 ---
 id: CALC-8
 title: Docs rebase b
-status: In review
+status: In PR
 type: task
 parent_task_id: CALC-1
 ordinal: 1008
@@ -32,3 +32,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria 9de34f
+- Pull request: #7
