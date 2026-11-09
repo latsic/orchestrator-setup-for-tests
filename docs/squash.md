@@ -1,0 +1,4 @@
+# Squash
+
+One.
+Two.
