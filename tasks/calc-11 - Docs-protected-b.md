@@ -1,7 +1,7 @@
 ---
 id: CALC-11
 title: Docs protected b
-status: In review
+status: In PR
 type: task
 parent_task_id: CALC-1
 ordinal: 1011
@@ -32,3 +32,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria c41e0f
+- Pull request: #10
