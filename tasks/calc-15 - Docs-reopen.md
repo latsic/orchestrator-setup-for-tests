@@ -1,7 +1,7 @@
 ---
 id: CALC-15
 title: Docs reopen
-status: In review
+status: Done
 type: task
 parent_task_id: CALC-1
 ordinal: 1015
@@ -32,3 +32,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria 74aefc
+- Pull request: #15
