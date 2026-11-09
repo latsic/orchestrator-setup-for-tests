@@ -1,7 +1,7 @@
 ---
 id: CALC-9
 title: Sub function
-status: Ready
+status: In review
 type: task
 parent_task_id: CALC-1
 ordinal: 1009
@@ -33,3 +33,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria bdb18b
+- Pull request: #8, checks passed on efc721b
