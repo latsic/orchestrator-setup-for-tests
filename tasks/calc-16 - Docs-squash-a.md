@@ -1,7 +1,7 @@
 ---
 id: CALC-16
 title: Docs squash a
-status: In review
+status: Done
 type: task
 parent_task_id: CALC-1
 ordinal: 1016
@@ -32,3 +32,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria 40068f
+- Pull request: #16
