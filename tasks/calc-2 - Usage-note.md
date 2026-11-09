@@ -1,7 +1,7 @@
 ---
 id: CALC-2
 title: Usage note
-status: In PR
+status: Done
 type: task
 parent_task_id: CALC-1
 ordinal: 1002
