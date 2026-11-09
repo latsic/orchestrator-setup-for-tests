@@ -1,7 +1,7 @@
 ---
 id: CALC-2
 title: Usage note
-status: Ready
+status: In PR
 type: task
 parent_task_id: CALC-1
 ordinal: 1002
@@ -32,3 +32,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria b006b7
+- Pull request: #1
