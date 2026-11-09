@@ -1,7 +1,7 @@
 ---
 id: CALC-14
 title: Notes wording b
-status: In review
+status: In PR
 type: task
 parent_task_id: CALC-1
 ordinal: 1014
@@ -32,3 +32,4 @@ Dummy task for script tests.
 
 ## Records
 - Ready: 2026-11-09, criteria 71d4df
+- Pull request: #13
